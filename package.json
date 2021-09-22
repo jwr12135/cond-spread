@@ -1,0 +1,24 @@
+{
+  "name": "cond-spread",
+  "version": "0.1.0",
+  "description": "Conditionally spread elements",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwr12135/cond-spread.git"
+  },
+  "keywords": [
+    "array",
+    "conditional",
+    "object",
+    "spread",
+    "util"
+  ],
+  "author": "jwr12135",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwr12135/cond-spread/issues"
+  },
+  "homepage": "https://github.com/jwr12135/cond-spread#readme"
+}
